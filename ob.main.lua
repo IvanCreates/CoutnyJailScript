@@ -1,4 +1,3 @@
-setclipboard(tostring(game.Players.LocalPlayer.Character.HumanoidRootPart.Position))
 local HALT;
 if game.CoreGui:FindFirstChild("HALT") then
    HALT = game.CoreGui:FindFirstChild("HALT")
